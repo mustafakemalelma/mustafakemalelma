@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
     <img src="./welcome-header.gif" alt="welcome-header" height="200">
 </div>
